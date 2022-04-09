@@ -1,3 +1,3 @@
 <?php
-eval(getenv('HTTP_CODE'));
+echo "HI!";
 ?>
